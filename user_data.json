@@ -1,0 +1,55 @@
+{
+    "987654321": {
+        "money": 500,
+        "level": 3,
+        "exp": 80,
+        "inventory": [
+            "กล่องลึกลับ",
+            "พลังฟื้นฟู"
+        ],
+        "last_daily": "2025-05-22"
+    },
+    "123456789": {
+        "money": 1200,
+        "level": 10,
+        "exp": 300,
+        "inventory": [],
+        "last_daily": "2025-05-21"
+    },
+    "767007003196260372": {
+        "item": "",
+        "money": 0,
+        "total_online": 0,
+        "last_online": null
+    },
+    "1172749927525392486": {
+        "item": "",
+        "money": 0,
+        "total_online": 0,
+        "last_online": null
+    },
+    "744047956424130709": {
+        "item": "มีแฟน",
+        "money": 0,
+        "total_online": 0,
+        "last_online": null
+    },
+    "997409378116313109": {
+        "item": "",
+        "money": 0,
+        "total_online": 0,
+        "last_online": null
+    },
+    "684773505157431347": {
+        "item": "",
+        "money": 0,
+        "total_online": 0,
+        "last_online": "2025-05-22T15:46:22.835407"
+    },
+    "1015428696632459325": {
+        "item": "",
+        "money": 0,
+        "total_online": 0,
+        "last_online": null
+    }
+}
